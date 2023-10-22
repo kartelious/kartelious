@@ -1,5 +1,5 @@
 ### Hello there,
-or as I like to say [bone jaw](https://oli-sharratt.me/projects/bone-jaw/)
+#### or as I like to say [bone jaw](https://oli-sharratt.me/projects/bone-jaw/)
 
 ### Who am I?
 I'm a design-focused student, who embarks on random and seemingly uncoordinated endeavours for the betterment of my own abilities. I appreciate designs that incorporate great functionality in a simple easy-to-use package, and in particular I desire efficiency in what I create and use (not to say that it is always achieved).
