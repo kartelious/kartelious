@@ -1,6 +1,20 @@
-### Who am I?
-I'm a design-focused student, who embarks on random and seemingly uncoordinated endeavours for the betterment of my own abilities. I appreciate designs that incorporate great functionality in a simple easy-to-use package, and in particular I desire efficiency in what I create and use (not to say that it is always achieved).
-*TL;DR: Some random person on the internet doing things on the internet because it's the internet and that's what it's for.*
+<h3 align="center">Hi, I'm Oli</h3>
+<div align="center">
+  <a>Electronics Design Engineer</a><br>
+  <a href="https://oli-sharratt.co.uk/">Website</a> |
+  <a href="www.linkedin.com/in/oli-sharratt/">LinkedIn</a> |
+  <a>London, UK</a>
+</div>
 
-### What do I do?
-Many, probably too many, different things - from computing and electronics, to music and design. I seem to hate having time to relax, but I guess when there are things that need to be done, I'll get them done.
+<br>
+
+I'm a design-focused electronic engineer, who embarks on random and seemingly uncoordinated endeavours for the betterment of my own abilities.
+
+See my [Projects](https://oli-sharratt.co.uk/projects/), or visit the [Product Archive](https://oli-sharratt.co.uk/product-archive/).
+
+<br>
+
+| Software    |  ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-a79069?style=for-the-badge&logo=&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion_360-F57C00?style=for-the-badge&logo=autodesk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-c05708?logo=&logoColor=fff&style=for-the-badge) ![LTspice](https://img.shields.io/badge/LTspice-900028?logo=ltspice&logoColor=fff&style=for-the-badge) ![Multisim](https://img.shields.io/badge/Multisim-57B685?logo=multisim&logoColor=fff&style=for-the-badge)  |
+|:---------------:|---|
+| **Programming** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-1E8449?style=for-the-badge&logo=v&logoColor=white)  |
+| **Tools**       | ![Git](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge) ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge) ![MS Office](https://img.shields.io/badge/MS_Office-b91418?logo=&logoColor=fff&style=for-the-badge) ![Adobe](https://img.shields.io/badge/Adobe-b30b00?logo=&logoColor=fff&style=for-the-badge) |
