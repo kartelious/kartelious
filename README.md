@@ -8,7 +8,7 @@
 
 <br>
 
-I'm a design-focused electronic engineer, who embarks on random and seemingly uncoordinated endeavours for the betterment of my own abilities. See my [Projects](https://oli-sharratt.co.uk/projects/), or visit the [Product Archive](https://oli-sharratt.co.uk/product-archive/).
+I'm an electronic engineer who learns by building. I take on projects that push me into unfamiliar areas, where each is an opportunity to develop new skills across hardware, software and fabrication. See my [Projects](https://oli-sharratt.co.uk/projects/), or visit the [Product Archive](https://oli-sharratt.co.uk/product-archive/).
 
 <br>
 
